@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by ARIJ ARMAN with love ------- SUBSCRIBE my channel TECH KNOW LINUX
+echo "  MADE BY CR4ZY H4CKE6(AKSHAY) ------- A WHITE HAT HACKER
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
