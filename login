@@ -18,7 +18,7 @@ echo "  MADE BY CR4ZY H4CKE6(AKSHAY) ------- A WHITE HAT HACKER
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is ARIJ ARMAN with your love... 
+echo " CREATOR IS CR4ZY H4CKER 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
