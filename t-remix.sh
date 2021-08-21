@@ -326,21 +326,21 @@ DIR="$HOME/.termux"
 
  if [ -d "$DIR" ]
 
-then 
+ then 
 
   echo
 
-else
+  else
 
   mkdir $HOME/.termux
 
-fi
+  fi
 
 FILE="$HOME/.termux/termux.properties"
 
-if [ -f "$FILE" ]
+ if [ -f "$FILE" ]
 
-then 
+ then 
 
   echo
 
