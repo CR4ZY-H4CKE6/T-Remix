@@ -20,7 +20,7 @@ sleep 2
 
 tput clear
 tput cup 3 30
-echo -e "\e[44m Like \e[41m Subscribe \e[m"
+echo -e "\e[44m HELLO \e[41m HOW ARE YOY \e[m"
 tput cup 6 30
 echo -e "\x1b[42m TECH KNOW LINUX by ARIJ ARMAN \x1b[m"
 tput cup 9 0
